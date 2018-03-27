@@ -8,4 +8,4 @@ We are looking to answer the question: what LPAs have a limited number or no peo
 
 I looked at all the block groups where LPAs intersect:
 
-<iframe src="http://januaryadvisors.com/uploads/automaps/lpagb.html"></iframe>
+<iframe src="http://www.januaryadvisors.com/wp-content/uploads/automaps/lpabg.html"></iframe>
